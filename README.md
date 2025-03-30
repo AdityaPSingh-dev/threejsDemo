@@ -49,10 +49,15 @@ npm install three @types/three @react-three/fiber @react-three/drei
 
 ## Deployment
 
-You can view a live demo of this project here: [Deployment Link](#).
+You can view a live demo of this project here: [Deployment Link](https://threejs-demo-xi-six.vercel.app/).
 
 ## Additional Resources
 
 For further customization and optimization, refer to the official [@react-three/drei documentation](https://github.com/pmndrs/drei). Explore additional presets for lighting, environments, and camera configurations to enhance your 3D scenes. 🎨 Try using `Stage` for preconfigured studio lighting, `ContactShadows` for realistic ground shadows, and `Sky` for dynamic atmospheric effects.
 
 📚 Check out [Three.js documentation](https://threejs.org/docs/) for more in-depth understanding of the WebGL rendering engine and advanced techniques for 3D development.
+
+## Model Attribution
+
+Some models on Sketchfab are free to download, but always check the license and credit the author if required.
+I’ll be using the Star Wars Alpha-class XG-1 Star Wing model by Daniel.
